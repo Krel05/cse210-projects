@@ -9,7 +9,7 @@ class Program
         int chapter = 1;
         int verse = 26;
         string text = "And now, my beloved brethren, I would that ye should come unto Christ, who is the Holy One of Israel, and partake of his salvation, and the power of his redemption. Yea, come unto him, and offer your whole souls as an offering unto him, and continue in fasting and praying, and endure to the end; and as the Lord liveth ye will be saved.";
-        string option = "";
+        string option;
 
 
 
