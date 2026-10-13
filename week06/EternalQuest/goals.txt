@@ -1,0 +1,4 @@
+Score|290
+SimpleGoal|s|e|10|True
+EternalGoal|f|r|20
+SimpleGoal|q|r|230|200|2|2
